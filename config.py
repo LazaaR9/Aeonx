@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7993410176:AAGw36H1VP1WWCYk8l_d7972eqr98WJ37_4"  # Get this from @BotFather
+BOT_TOKEN = "6153026190:AAE5ggDJ3PKxTJNg1nRHdWfyNjsA3NMJx-s"  # Get this from @BotFather
 OWNER_ID = 5179011789 # Your Telegram User ID (not username) as an integer
-TELEGRAM_API = 6895308  # Get this from my.telegram.org
-TELEGRAM_HASH = "40e6c3678d451f44438f10c384dc0444"  # Get this from my.telegram.org
+TELEGRAM_API = 25918874  # Get this from my.telegram.org
+TELEGRAM_HASH = "87c7c525932cf3d753bea33786ad71ee"  # Get this from my.telegram.org
 
 # SEMI-REQUIRED, WE SUGGEST TO FILL IT FROM MONGODB
 DATABASE_URL = "mongodb+srv://zee:zee@cluster0.s5dgb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # MongoDB URI for storing user data and preferences
